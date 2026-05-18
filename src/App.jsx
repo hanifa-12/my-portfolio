@@ -86,7 +86,7 @@ export default function Portfolio() {
           <a href="#contact">Contact</a>
         </div>
 
-        {/* <div className="flex gap-3">
+        <div className="flex gap-3">
           <button onClick={() => setDarkMode(!darkMode)} className="border px-3 py-1 rounded text-blue-600">
             {darkMode ? "Light" : "Dark"}
           </button>
@@ -94,7 +94,7 @@ export default function Portfolio() {
           <button className="md:hidden" onClick={() => setMenuOpen(!menuOpen)}>
             ☰
           </button>
-        </div> */}
+        </div>
       </nav>
 
       <AnimatePresence>
