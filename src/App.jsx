@@ -223,7 +223,7 @@ export default function Portfolio() {
         <p className="text-blue-600 font-semibold">
 
           Deploy on Vercel:
-          Push → GitHub → Import Project → Deploy 🚀
+          Developed By Hanifa 🚀
 
         </p>
 
